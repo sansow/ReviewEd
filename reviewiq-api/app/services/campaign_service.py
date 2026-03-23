@@ -3,7 +3,7 @@
 import uuid
 import pandas as pd
 from datetime import datetime, date
-from typing import Optional, List, dict
+from typing import Optional, List
 import logging
 
 logger = logging.getLogger(__name__)
